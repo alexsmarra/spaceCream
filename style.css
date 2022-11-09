@@ -255,6 +255,7 @@ footer a:hover {
       grid-template-columns: 1fr 3.5fr;
       /* grid-template-rows: 100%; */
       height: 100vh;
+      overflow: visible ;
    }
 
    .header {
